@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InvFinal</string>
+    <string name="loginName">Login Name</string>
+    <string name="loginPass">Password</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="welcomeText_homepage">Welcome to Inventory Helper</string>
+    <string name="createUser">Create New User</string>
+    <string name="loginButton">Login</string>
+    <string name="returnButton">Return</string>
+    <string name="item_name_input">Item Name</string>
+    <string name="item_qty_input">Item Qty</string>
+    <string name="item_number_input">Item Number</string>
+</resources>
